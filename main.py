@@ -1,1 +1,1 @@
-print("nazar")
+last_name = "Ivanov"
